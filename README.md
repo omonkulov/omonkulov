@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h4 align="center">Github Stats</h4>
+<h2 align="center">Github Stats</h2>
 
 <br/>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h4 align="center">Languages and Tools</h4>
+<h2 align="center">Languages and Tools</h2>
 
 <br/>
 
