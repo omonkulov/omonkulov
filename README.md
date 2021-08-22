@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 </div>
 
----
+<br/>
 
-<h2 align="center">Github Stats</h2>
+<h1 align="center">Github Stats</h1>
 
 <br/>
+
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omonkulov&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
