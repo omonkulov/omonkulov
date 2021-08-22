@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h4 align="center">📈 Github Stats</h4>
+<h4 align="center">Github Stats</h4>
 
 <br/>
 
