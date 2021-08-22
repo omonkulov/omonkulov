@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-### <center>📈 Github Stats</center>
+### <p align="center">📈 Github Stats</p>
 
 <br/>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### <center>Languages and Tools</center>
+### <p align="center">Languages and Tools</p>
 
 <br/>
 
