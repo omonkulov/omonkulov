@@ -25,14 +25,19 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### 📈 Github Stats
-
 ---
+
+### <center>📈 Github Stats</center>
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omonkulov&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
 ![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=slateorange) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Tools
-
+<br>
+### <center>Languages and Tools</center>
+<br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
