@@ -1,5 +1,3 @@
-
-
 <!--
 **omonkulov/omonkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📈 Stats 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Todoist Stats
+
+![visitors](<![visitors](https://visitor-badge.glitch.me/badge?page_id=omonkulov.omonkulov)>)
+
+### 📈 Stats
+
+---
+
+![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=slateorange) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
