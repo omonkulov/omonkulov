@@ -74,3 +74,5 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+
+<h1 align="center"> Title </h1>
