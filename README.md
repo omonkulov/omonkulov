@@ -29,15 +29,18 @@ Here are some ideas to get you started:
 
 ### <center>📈 Github Stats</center>
 
-<br>
+<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omonkulov&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
 ![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=slateorange) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br/>
+
 ### <center>Languages and Tools</center>
-<br>
+
+<br/>
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
