@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h2 align="center">More</h2>
+<h2 align="center">This Week</h2>
 
 <br/>
 <!--START_SECTION:waka-->
