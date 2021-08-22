@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=collegiate&color=37393F&size=35&center=false&vCenter=true&width=600&height=85&lines=Sardorbek+Omonkulov;Fullstack+Web%2FApp+Developer;Computer+Building+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://github.com/omonkulov" target="_blank">
@@ -25,15 +27,20 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+</div>
+
 ---
 
 <h2 align="center">Github Stats</h2>
 
 <br/>
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omonkulov&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
 ![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=slateorange) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br/>
 
