@@ -91,6 +91,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 18 mins    ████████████▓░░░░░░░░░░░░   50.29 % 
+JavaScript   58 mins         █████████▒░░░░░░░░░░░░░░░   37.45 % 
+YAML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
