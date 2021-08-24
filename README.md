@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 18 mins    ████████████▓░░░░░░░░░░░░   50.29 % 
-JavaScript   58 mins         █████████▒░░░░░░░░░░░░░░░   37.45 % 
-YAML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown     1 hr 18 mins    ████████████░░░░░░░░░░░░░   47.38 % 
+JavaScript   1 hr 8 mins     ██████████▒░░░░░░░░░░░░░░   41.07 % 
+YAML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
