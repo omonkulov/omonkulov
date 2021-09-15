@@ -91,10 +91,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 13 mins   ████████████████░░░░░░░░░   64.13 % 
-JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Git Config   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JavaScript   3 hrs 13 mins   █████████████████▒░░░░░░░   69.23 % 
+JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Git Config   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Bash         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 <!--END_SECTION:waka-->
