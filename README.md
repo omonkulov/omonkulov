@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=collegiate&color=37393F&size=35&center=true&vCenter=true&width=600&height=85&lines=Hello+Robomatter!;i'm+Fullstack+Web%2FApp+Developer;Computer+Building+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=collegiate&color=37393F&size=35&center=true&vCenter=true&width=600&height=85&lines=Hello+Robomatter!;I+am+Fullstack+Web%2FApp+Developer;Computer+Building+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://github.com/omonkulov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
