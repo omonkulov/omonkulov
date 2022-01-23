@@ -41,6 +41,15 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonkulov&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
+ |          Name         |                          Github Repo                         |                           Demo                          |
+|:---------------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
+| CardWars (hackathon)  | [Repo](https://github.com/Quiahn/Mintbean-hackathon-project) | [Live](https://www.cardwars.org/)                       |
+| Spotify-Stats         | [Repo](https://github.com/omonkulov/SpotifyStatsClient)      |  [Live](https://wonderful-meitner-18d697.netlify.app/). |
+| TypeNotes             | [Repo](https://github.com/omonkulov/TypeNotes)               | None                                                    |
+| Portfolio             | [Repo](https://github.com/omonkulov/portfolio)               | [Live](https://www.omonkulov.com/)                      |
+| Financial Managment   | [Repo](https://github.com/omonkulov/FinancialManagement)     | None                                                    |
 </div>
+
+
 
 
