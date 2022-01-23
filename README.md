@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 |          Name         |                          Github Repo                         |                           Demo                          |
 |:---------------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
 | CardWars (hackathon)  | [Repo](https://github.com/Quiahn/Mintbean-hackathon-project) | [Live](https://www.cardwars.org/)                       |
-| Spotify-Stats         | [Repo](https://github.com/omonkulov/SpotifyStatsClient)      | [Live](https://wonderful-meitner-18d697.netlify.app/).  |
+| Spotify-Stats         | [Repo](https://github.com/omonkulov/SpotifyStatsClient)      | [Live](https://wonderful-meitner-18d697.netlify.app/)   |
 | TypeNotes             | [Repo](https://github.com/omonkulov/TypeNotes)               | None                                                    |
 | Portfolio             | [Repo](https://github.com/omonkulov/portfolio)               | [Live](https://www.omonkulov.com/)                      |
 | Financial Managment   | [Repo](https://github.com/omonkulov/FinancialManagement)     | None                                                    |
