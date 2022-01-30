@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&center=true&vCenter=true&width=500&height=81&lines=Hello+Stranger;My+name+is+Sardorbek+Omonkulov;And+I+love+REACT+%26+Javascript)](https://git.io/typing-svg)
-
 <a href="https://github.com/omonkulov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
