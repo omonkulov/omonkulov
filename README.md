@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonkulov&show_icons=true&theme=slateorange)
-
 |          Name         |                          Github Repo                         |                           Demo                          |
 |:---------------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
 | CardWars (hackathon)  | [Repo](https://github.com/Quiahn/Mintbean-hackathon-project) | [Live](https://www.cardwars.org/)                       |
